@@ -1,4 +1,6 @@
 C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\dto\Demo.java
-C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\AccountType.java
-C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\AccountTransaction.java
+C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\Category.java
+C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\MemberType.java
+C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\MemberReward.java
+C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\persistence\RewardType.java
 C:\Users\Derick\IdeaProjects\AccountSystems\AccountSystemsDomain\src\main\java\za\ac\nwu\ac\domain\service\GeneralResponse.java

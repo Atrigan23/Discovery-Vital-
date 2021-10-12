@@ -1,4 +1,6 @@
-za\ac\nwu\ac\domain\persistence\AccountTransaction.class
-za\ac\nwu\ac\domain\persistence\AccountType.class
+za\ac\nwu\ac\domain\persistence\MemberReward.class
 za\ac\nwu\ac\domain\dto\Demo.class
+za\ac\nwu\ac\domain\persistence\Category.class
+za\ac\nwu\ac\domain\persistence\MemberType.class
+za\ac\nwu\ac\domain\persistence\RewardType.class
 za\ac\nwu\ac\domain\service\GeneralResponse.class
